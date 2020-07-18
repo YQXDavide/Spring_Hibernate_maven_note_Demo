@@ -1,0 +1,2 @@
+# Spring_Hibernate_maven_note_Demo
+使用注解的方式简化spring配置文件
